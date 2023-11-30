@@ -1,2 +1,5 @@
 print("Stackpyhon")
-print
+print("Stackpyhon")
+print("Stackpyhon")
+print("Stackpyhon")
+print("Stackpyhon")
